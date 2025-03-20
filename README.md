@@ -78,3 +78,11 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or issues, please contact us.
+
+
+##Special thanks to 
+
+B-CyberFunker
+https://github.com/B-CyberFunker
+
+
